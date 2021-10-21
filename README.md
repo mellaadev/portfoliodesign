@@ -10,9 +10,7 @@ Proyecto realizado con las tecnologías HTML, SASS y JavaScript. Tiene como fina
 
 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Desarrollado con
 
 * [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 * [SASS](https://sass-lang.com/)
